@@ -1,7 +1,5 @@
 # Night in the Diner - CS 174 Final Project
 
-Kimberly Shi, Maggie Huang, Albert Han, Katherine Chong
-
 <img src="https://github.com/KimberlyShi/CS174FinalProject/blob/master/assets/beginSceen_readme.png" width="750">
 <img src="https://github.com/KimberlyShi/CS174FinalProject/blob/master/assets/rules_readme.png" width="750">
 
